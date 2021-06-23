@@ -37,7 +37,6 @@
 
 
 ## References
-[1]: https://arxiv.org/pdf/1609.04802.pdf
-[2]: https://arxiv.org/pdf/1603.08155.pdf
-[3]: https://arxiv.org/pdf/1609.04802.pdf
-- 
+[1] : https://arxiv.org/pdf/1609.04802.pdf
+[2] : https://arxiv.org/pdf/1603.08155.pdf
+[3] : https://arxiv.org/pdf/1609.04802.pdf
